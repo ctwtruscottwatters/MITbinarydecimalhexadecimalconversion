@@ -7,6 +7,8 @@ import sklearn
 # Charles Thomas Wallace Truscott Watters
 # 9/09/2022, just under five weeks until 6.0002 to become an MIT alumni from an edX XSeries `Computational Thinking` certificate from MIT
 # Mid-day, eager for a Crown Lager
+# All my own work done through critical thinking and intuition. I love MIT. Almost 5pm now and sitting back with a few cold scotches with my big bro Tai Truscott
+
 """
 Charles Thomas Wallace Truscott Watters, student at MIT.
 
