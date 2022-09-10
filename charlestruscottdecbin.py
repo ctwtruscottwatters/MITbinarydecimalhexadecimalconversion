@@ -13,7 +13,9 @@ import sklearn
 # At Byron High I gained my School Certificate (NSW), in 2015 completing an Offensive Security Certified Professional, two years later attending SCU Gold Coast for Biomedical Science and three years after that attending SCU for Foundation Mathematics, that included most invaluably secondary to higher mathematics and rearranging and solving equations (Newton's Law of Cooling, quadratic theorem, factoring, completing the square) and next carrying on from Offensive Security I gained a certificate of completion in Python from TAFE NSW 
 # and now I hold a certificate in Python from MIT, with fingers crossed to pass the capstone data science unit to earn the certificate of `Computational Thinking in Python` from Massachusetts Institute of Technology
 # If I ever get an Australian Passport issued to travel or migrate either need to obtain my 1999 passport in which I visit California, Santa Monica and Hawaii, or dig up my Byron Primary reports to (under AU law) confirm I have lived my entire life in Australia
-# Been on computers science dial up and Windows 95 in 1997 using Linknet, Byron Bay's first Internet Service Provider. didnt get ADSL1 until roughly 2004'
+# Been on computers science dial up and Windows 95 in 1997 using Linknet, Byron Bay's first Internet Service Provider. didnt get ADSL1 until roughly 2004
+# need to check in with NSA to tell them in upcoming trips to Sydney going to be in American-Town suburbs and from now on celebrating Thanksgiving and the 4th of July
+# coffee and turkey diet
 """
 Charles Thomas Wallace Truscott Watters, student at MIT.
 
